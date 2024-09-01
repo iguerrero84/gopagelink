@@ -1,0 +1,17 @@
+name: "Israel A Guerrero"
+picture: "picture.png" # paste an img at root of project or an image source url
+bio: "Architect / Team Leader / Senior Software Engineer"
+meta:
+  lang: "en"
+  description: "Architect / Team Leader / Senior Software Engineer"
+  title: "Israel A Guerrero"
+  author: "Israel A Guerrero"
+  siteUrl: "https://iguerrero84.github.io"
+links:
+  - name: "Github"
+    url: "https://github.com/iguerrero84"
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/iguerrero84"
+  - name: "Twitter/X"
+    url: "https://twitter.com/israelgr071018"
+theme: "custom"
