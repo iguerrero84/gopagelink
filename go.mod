@@ -1,6 +1,6 @@
 module gopagelink
 
-go 1.20
+go 1.23
 
 require (
 	github.com/tdewolff/minify v2.3.6+incompatible // indirect
